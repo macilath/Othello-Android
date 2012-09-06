@@ -1,16 +1,2 @@
-# built application files
-# *.apk - Uploading the .apk for distribution
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
+# Just the major annoyance: 
+Thumbs.db
